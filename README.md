@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/Armanhossain15/Armanhossain15/main/image/banner.png)
+![banner](image/banner.png)
 
 ## Hi, I'm Md Arman Hossain Azad
 
