@@ -1,8 +1,8 @@
 ![banner](image/banner.png)
 
-## Hi, I'm Md Arman Hossain Azad
+## Hi, I'm Md Tajul Islam
 
- I am a junior frontend developer with a focus on the MERN stack. I excel at developing dynamic websites using React.js and have practical experience building a variety of web applications. I feel comfortable using Tailwind CSS for design with ReactJS on the frontend and Firebase for authentication. There is ignorance of using Node.js, Express.js, and MongoDB in the backend.
+ I am a Softoware Developer. I excel at developing dynamic websites using React.js and have practical experience building a variety of web applications. I feel comfortable using Tailwind CSS for design with ReactJS on the frontend and Firebase for authentication. There is ignorance of using Node.js, Express.js, and MongoDB in the backend.
 
 
 ## Technology and Tools
@@ -12,25 +12,25 @@
 ## Current Stats
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armanhossain15&theme=merko&border=7F3FBF&background=0D1117" alt="Armanhossain15's GitHub streak" width="100%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtajulislam67&theme=merko&border=7F3FBF&background=0D1117" alt="mdtajulislam67's GitHub streak" width="100%"/>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Armanhossain15&show_icons=true&theme=highcontrast" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mdtajulislam67&show_icons=true&theme=highcontrast" width="100%"/>
 </p>
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Armanhossain15&theme=outrun" width="100%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdtajulislam67&theme=outrun" width="100%"/>
 <a> 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Armanhossain15&theme=outrun" width="49.5%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Armanhossain15&theme=outrun&utcOffset=8" width="49.5%"/>
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdtajulislam67&theme=outrun" width="49.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdtajulislam67&theme=outrun&utcOffset=8" width="49.5%"/>
 </a>
 </p>
 
 ## Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/hossainarman/" target="_blank">
+  <a href="https://www.linkedin.com/in/mdtajulislam67" target="_blank">
     <img height="75" src="https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/Linkedin.png">
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100039523970772" target="_blank">
+  <a href="https://www.facebook.com/mdtajulislam67" target="_blank">
     <img height="75" src="https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/Facebook.png">
   </a>
 </p>
