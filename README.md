@@ -7,6 +7,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdtajulislam67&label=Profile%20Views&color=770080&style=flat" alt="mdtajulislam67" /> </p>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdtajulislam67" alt="mdtajulislam67" /></a> </p>
+
 <!-- ## Technology and Tools
 
 ![icon](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/icon.png)
