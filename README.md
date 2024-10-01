@@ -1,8 +1,9 @@
 ![banner](image/banner.png)
 
-## Hi, I'm Md Tajul Islam
+<h1 align="center">Hi 👋, I'm Md Tajul Islam</h1>
 
- I am a Softoware Developer. I excel at developing dynamic websites using React.js and have practical experience building a variety of web applications. I feel comfortable using Tailwind CSS for design with ReactJS on the frontend and Firebase for authentication. There is ignorance of using Node.js, Express.js, and MongoDB in the backend.
+<h3 align="center">A passionate Software developer from Bangladesh</h3>
+<h3 align="center">Consistent Learner | Programmer | Tech Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdtajulislam67&label=Profile%20Views&color=770080&style=flat" alt="mdtajulislam67" /> </p>
 
@@ -36,10 +37,6 @@
 
 
 
-
-
-
-
 ## Current Stats
 
 <p align="center">
@@ -56,39 +53,14 @@
 </a>
 </p>
 
-## Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mdtajulislam67" target="_blank">
-    <img height="75" src="https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/Linkedin.png">
-  </a>
-  <a href="https://www.facebook.com/mdtajulislam67" target="_blank">
-    <img height="75" src="https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/Facebook.png">
-  </a>
-</p>
-
 ## Current overview
 
-### 🔭 I’m currently - A Front-End developer with MERN stack technologies.
+### 🔭 I’m currently - A Software developer.
 
 ### 🌱 I’m exploring - Advanced state management techniques in React and diving into Node.js for backend development.
 
 ### 👯 I’m looking - To connect with fellow developers and explore opportunities for collaborative open source projects.
 
-### 🤔 I’m trying - To make a positive impact by using my web development skills to support.
+### 🤔 I’m trying - To make a positive impact by using my Software development skills to support.
 
 ### ⚡ Fun fact - Outside of coding, I'm a volunteer of Bangladesh Red Crescent Society (BDRCS) a part of the world's largest humanitarian non-governmental organization, The International Red Cross and Red Crescent Movement.
-
-<!--
-**monjurBakthMazumder/monjurBakthMazumder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
